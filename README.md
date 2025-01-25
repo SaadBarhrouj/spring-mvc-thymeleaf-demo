@@ -1,3 +1,7 @@
+<div style="text-align: center;">
+    <img src="preview/1.preview.png" alt="Portfolio Preview" width="800" style="border: 2px solid #000; display: inline-block;"> 
+</div>
+
 # Spring MVC Thymeleaf Demo 🌱
 
 This project is a demonstration of a simple web application built with Spring MVC and Thymeleaf. It focuses on showcasing the integration of several Spring technologies with dynamic HTML generation and database interaction.
